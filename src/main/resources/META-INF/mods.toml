@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[25,)"
+issueTrackerURL="https://github.com/Vazkii/Symphony"
+
+[[mods]]
+modId="symphony"
+displayName="Symphony"
+version="${version}"
+authors="Vazkii"
+description='''
+Minecraft soundtrack system based on a user-defined ruleset
+'''
